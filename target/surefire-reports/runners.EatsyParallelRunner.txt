@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: runners.EatsyParallelRunner
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.016 s <<< FAILURE! - in runners.EatsyParallelRunner
+initializationError(runners.EatsyParallelRunner)  Time elapsed: 0.016 s  <<< ERROR!
+java.lang.IllegalArgumentException: Not a file or directory: C:\Users\Julietta\IdeaProjects\ParallelTestingpractice\src\test\resources\features\eatsySearch.feature
+

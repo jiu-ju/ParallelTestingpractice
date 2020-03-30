@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: runners.WikipediaParallelRunner
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.084 s <<< FAILURE! - in runners.WikipediaParallelRunner
+initializationError(runners.WikipediaParallelRunner)  Time elapsed: 0.084 s  <<< ERROR!
+java.lang.IllegalArgumentException: Not a file or directory: C:\Users\Julietta\IdeaProjects\ParallelTestingpractice\src\resources\features\wikiSearch.feature
+

@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: Google feature verifications
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 2, Skipped: 0, Time elapsed: 34.989 s <<< FAILURE! - in Google feature verifications
+Google title verification(Google feature verifications)  Time elapsed: 23.54 s  <<< ERROR!
+java.lang.NullPointerException: null value in entry: url=null
+
+Google title verification after searching a term(Google feature verifications)  Time elapsed: 11.437 s  <<< ERROR!
+java.lang.NullPointerException: null value in entry: url=null
+

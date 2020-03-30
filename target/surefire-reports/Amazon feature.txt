@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: Amazon feature
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 28.588 s <<< FAILURE! - in Amazon feature
+Validate size of categories(Amazon feature)  Time elapsed: 28.588 s  <<< ERROR!
+java.lang.NullPointerException: null value in entry: url=null
+
